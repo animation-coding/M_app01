@@ -3,7 +3,7 @@
 :root {
 
     /******* bg ********/
-    --bg01: linear-gradient(180deg,
+    --bg01: linear-gradient(135deg,
             #22262A 0%,
             #181A1D 100%);
 
